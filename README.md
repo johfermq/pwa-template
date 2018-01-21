@@ -1,6 +1,6 @@
-# zewatt_pwa
+# PWA template
 
-> A Vue.js project
+> A PWA template made in Vue.js and Vuetify
 
 ## Build Setup
 
